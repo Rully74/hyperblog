@@ -2,6 +2,7 @@
 *Curso de git y github de platzi*
 - Estoy aprendiendo, no juzgues.
 - Esto es personal, chismoso
+- Hola hola
 
 ![hola](https://i.imgur.com/xB9UVL5.jpg "hola")
 
