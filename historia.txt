@@ -4,12 +4,9 @@ Julian tiene 22 años y es un crack
 
 Mañana nos enfocaremos en su vida laboral
 
-<<<<<<< HEAD
 Master 1
 
 Master 2
-=======
 Experimento 1
 
 Master 1
->>>>>>> a4a770b (experimento 1)
